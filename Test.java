@@ -5,6 +5,8 @@ public static void main(String args[]) {
 
 	System.out.println("Modifica mia");
 System.out.println("Salva");
+
+int a=9;
 	
 }
 }
